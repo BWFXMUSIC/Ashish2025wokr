@@ -1,4 +1,4 @@
-#code by @K_4ip Telegram channel :- @VenomOwners
+#code by @L2R_KING Telegram channel :- @MUSICBOT_OWNER
 # don't remove credit 
 
 import requests
